@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente eu trabalho na Conciso TI
-- 🌱 No momento estou aprendendo C
+- 🌱 No momento estou aprendendo Clean Architecture
 - 💬 Me pergunte sobre JavaScript
 - 📫 Entre em contato em: vinicius.pereira.700ufrn.edu.br
 
