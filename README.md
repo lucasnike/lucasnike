@@ -1,9 +1,9 @@
 ### Olá Eu sou o Lucas Vinicius 👋
 
 
-- 🔭 Atualmente eu trabalho na Conciso TI
+- 🔭 Atualmente eu trabalho na MobInLife
 - 🌱 No momento estou aprendendo Clean Architecture
-- 💬 Me pergunte sobre JavaScript
+- 💬 Me pergunte sobre C#
 - 📫 Entre em contato em: vinicius.pereira.700ufrn.edu.br
 
 <div align="center">
